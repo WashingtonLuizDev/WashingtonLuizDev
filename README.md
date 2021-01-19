@@ -15,17 +15,17 @@
 
 
 <div align="center">
-  <a href="#" alt="Gmail">
+  <a href="mailto:Washington.luiz.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Washington.luiz.dev@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/washingtonlssilva/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/washingtonlssilva/"/></a>
+  <a href="https://www.linkedin.com/in/washingtonlssilva/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/washingtonlssilva/"/></a>
   
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=/white&link=//whats.link/washxon"/></a>
+  <a href="https://whats.link/washxon" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=/white&link=https://whats.link/washxon"/></a>
   
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=//www.instagram.com/WashXon/"/></a>
+  <a href="https://www.instagram.com/WashXon/" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/WashXon/"/></a>
 <div>
  
 
