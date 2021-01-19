@@ -54,6 +54,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=windows&logoColor=white)
 
 </details>
 
