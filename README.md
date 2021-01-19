@@ -36,4 +36,6 @@
 </div>
 
 <hr>
+<details>
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+</details>
