@@ -44,7 +44,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![CSHARP](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=csharp&logoColor=white)
+![CSHARP](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=C#&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![React Native](https://img.shields.io/badge/-React%20Native-262B32?style=flat-square&logo=react&logoColor=00D0F6)
