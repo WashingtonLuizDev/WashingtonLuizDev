@@ -35,3 +35,5 @@
 </a>
 </div>
 
+<hr>
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
