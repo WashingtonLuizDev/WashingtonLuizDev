@@ -18,8 +18,8 @@
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Washington.luiz.dev@gmail.com" /></a>
 
-  <a href="www.linkedin.com/in/washingtonlssilva/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=//www.linkedin.com/in/washingtonlssilva/" /></a>
+  <a href="https://www.linkedin.com/in/washingtonlssilva/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/washingtonlssilva/"/></a>
   
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=/white&link=//whats.link/washxon"/></a>
@@ -34,3 +34,4 @@
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
+
