@@ -44,7 +44,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![CSHARP](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=html5&logoColor=white)
+![CSHARP](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6)
 ![React Native](https://img.shields.io/badge/-React%20Native-262B32?style=flat-square&logo=react&logoColor=00D0F6)
@@ -54,7 +54,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=windows&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=excel&logoColor=white)
 
 </details>
 
