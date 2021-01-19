@@ -3,7 +3,7 @@
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :books: &nbsp; <strong>Programador, gamer e apaixonado por fazer amigos e conhecer gente nova.</strong>
-- 🎓 &nbsp; <strong>Estudei Análise e Desenvolvimento de sistemas e ultimamente estou me especializando mais em C#</strong>
+- 🎓 &nbsp; <strong>Estudei Análise e Desenvolvimento de sistemas e ultimamente estou me especializando mais em programação WEB</strong>
 - :computer: &nbsp; <strong>Atualmente estou estudando C#,metodologias ágeis,DDD,Clean Code e Designer Patterns</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
