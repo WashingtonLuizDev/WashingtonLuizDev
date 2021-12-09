@@ -32,6 +32,12 @@
 </br>
 <div align="center">
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+  <img
+    align="center"
+    alt="Most used languages"
+    style="margin-bottom: 10px;"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WashingtonLuizDev&layout=compact&langs_count=6&theme=ayu-mirage"
+  />
 </a>
 </div>
 
