@@ -30,16 +30,19 @@
  
 
 </br>
-<div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+
+<p align="center">
+  <img align="center"
+      alt="Washington Luiz Github stats"
+      style="margin-bottom: 10px;"
+      height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WashingtonLuizDev&show_icons=true&include_all_commits=true&theme=radical" />
   <img
     align="center"
     alt="Most used languages"
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WashingtonLuizDev&layout=compact&langs_count=6&theme=ayu-mirage"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WashingtonLuizDev&layout=compact&langs_count=6&theme=radical"
   />
-</a>
-</div>
+</p>
 
 <details>
   <summary> <b> Want to know more about me? </b> <i>(Click here to expand)</i> </summary>
