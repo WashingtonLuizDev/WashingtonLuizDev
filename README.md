@@ -3,15 +3,14 @@
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :books: &nbsp; <strong>Programador, gamer e apaixonado por fazer amigos e conhecer gente nova.</strong>
-- 🎓 &nbsp; <strong>Estudei Análise e Desenvolvimento de sistemas e ultimamente estou me especializando mais em programação WEB</strong>
-- :computer: &nbsp; <strong>Atualmente estou estudando C#,metodologias ágeis,DDD,Clean Code e Designer Patterns</strong>
+- 🎓 &nbsp; <strong>Desenvolvedor Full Stack com experiência consolidada em projetos web de ponta a ponta, atuando desde o levantamento de requisitos e análise de negócios até o desenvolvimento, manutenção e evolução de sistemas. Tenho vivência em ambientes corporativos, colaborando com diferentes áreas e participando ativamente das decisões técnicas do dia a dia.</strong>
+- :computer: &nbsp; <strong>Atuo principalmente com C#/.NET e Angular, desenvolvendo APIs, integrações e aplicações web escaláveis. Possuo forte experiência com banco de dados SQL, incluindo criação e otimização de queries, procedures e triggers, além de atuação em times ágeis utilizando Scrum e boas práticas do mercado.</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; <strong>Tenho conhecimento em VisualFoxPro,C#,SQLSERVER,um pouco de Java e react</strong>
-- 🌐 &nbsp; <strong>Suas áreas de atuação (Desktop e Web)</strong>
-- 🛢 &nbsp; <strong>SQL SERVER e MySQL</strong>
-- 🔧 &nbsp; <strong>Visual Studio e Visual Code</strong>
+- 💻 &nbsp; <strong>Desenvolvimento Web Full Stack;</strong>
+- 🛢 &nbsp; <strong>Scrum,Metodologias Ágeis (Kanban, práticas ágeis em geral),Trabalho orientado a entregas e melhoria contínua;</strong>
+- 🔧 &nbsp; <strong>C# / .NET, Angular, SQL Server, MySQL, REST / HTTP, Git;</strong>
 
 
 <div align="center">
